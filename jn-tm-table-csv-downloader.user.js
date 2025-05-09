@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Table to CSV Downloader (Custom Context Menu)
-// @namespace    https://github.com/<your-github-username>/table-to-csv-downloader
+// @namespace    https://github.com/janunezc/jn-tm-table-download-as-csv
 // @version      3.0
 // @description  Open-source: Download table as CSV via a custom context menu, paint tables with inline red borders, and run once page & network are idle.
 // @author       José Ángel Núñez Chaves
