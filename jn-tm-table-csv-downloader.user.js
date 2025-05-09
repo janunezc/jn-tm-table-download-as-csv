@@ -9,7 +9,7 @@
 // @homepageURL  https://github.com/janunezc/jn-tm-table-download-as-csv
 // @supportURL   https://github.com/janunezc/jn-tm-table-download-as-csv/issues
 // @license      MIT
-// @updateURL    https://github.com/janunezc/jn-tm-table-download-as-csv/raw/main/tampermonkey-table-csv-downloader.user.js
+// @updateURL    https://github.com/janunezc/jn-tm-table-download-as-csv/raw/main/tampermonkeyjn-tm-table-csv-downloader.user.js
 // ==/UserScript==
 
 (function() {
